@@ -1,7 +1,7 @@
 name: aerophoto360
 favicon: null
-layout_spectrum: 0.432769627077505
-typography_spectrum: 0.6613327886443585
+layout_spectrum: 1
+typography_spectrum: 0.56937
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9201788019854575
-  lightness: 0.7752053621225059
-  saturation: 0.9696121513843536
-  rhythmicContrast: 0.18225386692211032
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
