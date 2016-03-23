@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: RECENT ASCENTS
-datePublished: '2016-03-23T20:03:09.884Z'
-dateModified: '2016-03-23T20:03:05.141Z'
+datePublished: '2016-03-23T23:39:38.656Z'
+dateModified: '2016-03-23T23:39:32.780Z'
 title: RECENT TRIPS INTO THE SKY
 author: []
 sourcePath: _posts/2016-03-23-recent-ascents.md
@@ -29,7 +29,9 @@ Like crumbs from an already finished cake, these iconic structures still crumble
 ![Kennywood's (Not) Open](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5678e0f9cdfebab52074948ac76cb7d5d4e629ee.jpg)
 
 From these heights, that treasured old landmark, Kennywood Park could pass for one one of its mill neighbors across the river.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c3b1dd8b2490c9fba9ee8a39c88c17667ae7c9.jpg)
+![Low Winter Sun](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c3b1dd8b2490c9fba9ee8a39c88c17667ae7c9.jpg)
+
+The Low Winter Sun creates a striking Pittsburgh cityscape.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd060f3f-0e5d-43e7-bd96-040d9a885696.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f268a8-101c-40ce-94c7-40cf03dd0409.jpg)
 
