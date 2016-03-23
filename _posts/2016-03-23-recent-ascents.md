@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: RECENT ASCENTS
-datePublished: '2016-03-23T18:10:46.486Z'
-dateModified: '2016-03-23T18:09:14.667Z'
+datePublished: '2016-03-23T18:19:42.288Z'
+dateModified: '2016-03-23T18:19:38.286Z'
 title: RECENT TRIPS INTO THE SKY
 author: []
 sourcePath: _posts/2016-03-23-recent-ascents.md
