@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: RECENT ASCENTS
-datePublished: '2016-03-23T18:01:56.625Z'
-dateModified: '2016-03-23T18:01:34.020Z'
+datePublished: '2016-03-23T18:05:42.859Z'
+dateModified: '2016-03-23T18:02:04.601Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-23-recent-ascents.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-recent-ascents.md
-published: true
 url: recent-ascents/index.html
 _type: Article
 
