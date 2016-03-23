@@ -1,6 +1,6 @@
 name: aerophoto360
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.56937
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+    - '#e3dfd8'
+    - '#000000'
+    - '#304566'
+    - '#bba58f'
+    - '#64605b'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
