@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: RECENT ASCENTS
-datePublished: '2016-03-23T18:24:50.026Z'
-dateModified: '2016-03-23T18:23:25.787Z'
+datePublished: '2016-03-23T18:27:06.831Z'
+dateModified: '2016-03-23T18:24:52.379Z'
 title: RECENT TRIPS INTO THE SKY
 author: []
 sourcePath: _posts/2016-03-23-recent-ascents.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 RECENT ASCENTS
 ![OLD PITTSBURGH](https://s3-us-west-2.amazonaws.com/the-grid-img/p/123d08c26a30b366bd2cba0d3b1f9558576de7d2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/426c9b02-c3bf-4a3d-82c5-8420e160c6b6.jpg)
+![Kennywood's (Not) Open](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5678e0f9cdfebab52074948ac76cb7d5d4e629ee.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c3b1dd8b2490c9fba9ee8a39c88c17667ae7c9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd060f3f-0e5d-43e7-bd96-040d9a885696.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f268a8-101c-40ce-94c7-40cf03dd0409.jpg)
